@@ -7,4 +7,4 @@ export const store = configureStore({
         data: dataReducer
     },
     middleware: [logger]
-})
+}) 
